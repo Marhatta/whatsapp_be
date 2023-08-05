@@ -24,6 +24,7 @@
     "nodemon": "^2.0.22",
     "prettier": "^2.8.8",
     "trim-request": "^1.0.6",
+    "validator": "^13.9.0",
     "winston": "^3.9.0"
   }
 }
